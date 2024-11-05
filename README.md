@@ -17,21 +17,30 @@ Source codes and documentation for November 2024 OPTIMA workshop:
 
 ![image](https://github.com/user-attachments/assets/b354b6da-a44c-42f2-8b97-a68e679cd778)
 
-  2) **Create the environment/ OPTIMA Platform**: Once your terminal is open run the following commands to create the environment based on the `BCI_demo.yaml` file:
+  2) **Copy notebook and required data from shared directory to work directory / OPTIMA Platform**: Once your terminal is open run the following command.:
+     ```bash
+     mamba init bash
+
+  -  You will now need to close the terminal and open a new teminal session as seen previously. Now run the following commands to create your working directory and copy over the data.:
+    
+     ```bash
+     mkdir ~/work/omics_demo
+     
+     cd ~/work/omics_demo
+     
+     cp -r ~/shared/omics_demo/* ~/work/omics_demo/
+
+
+  3) **Create the environment/ OPTIMA Platform**: Once your terminal is open run the following commands to create the environment based on the `BCI_demo.yaml` file:
   
      ```bash
      mamba env update --file BCI_demo.yaml
      
-     mamba init bash
-     
-- **Create the environment/ OPTIMA Platform**: You will now need to close the terminal and open a new teminal session as seen previously. Then type the follo the following commands to add the Kernel to the Jypeter notebook.:
-
-    ```bash
      mamba activate BCI_demo
   
      R -e "IRkernel::installspec(name = 'BCI_demo', displayname = 'BCI_demo')"
 
-3) **Change to the created kernel**: Open the Jupyter Notebook and click on the **kernel** tab this will open up a dropdown select **change kernel**. (see below)
+4) **Change to the created kernel**: Open the Jupyter Notebook and click on the **kernel** tab this will open up a dropdown select **change kernel**. (see below)
   
   ![image](https://github.com/user-attachments/assets/a91fa0cd-3f6a-4bbf-aab6-9d937cfe5098)
 
