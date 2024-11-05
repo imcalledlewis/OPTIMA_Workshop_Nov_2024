@@ -60,6 +60,7 @@
 
   ![image](https://github.com/user-attachments/assets/6e529941-56ec-4267-835d-81b63732aba1)
 
-3) You should now be using the Kernel with the required libraries for the analysis.
+3) You should now be using the Kernel with the required libraries for the analysis. You can check this by looking in the top right corner. (see below)
+<img width="149" alt="image" src="https://github.com/user-attachments/assets/ae8c9829-82a0-4139-aea7-dba1d8dd9a6f">
 
 </details>
