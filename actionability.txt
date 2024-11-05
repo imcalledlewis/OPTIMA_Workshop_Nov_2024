@@ -1,0 +1,25 @@
+Gene	Drug	Classification	Disease	Response
+TP53	venetoclax	BCL2-inhibitor	Haem.Malignancy	Responsive
+TP53	venetoclax	BCL2-inhibitor	Haem.Malignancy	Responsive
+TP53	zanubrutinib	Kinase inhibitor	Haem.Malignancy	Responsive
+TP53	pirtobrutinib	Kinase inhibitor	Haem.Malignancy	Responsive
+TP53	venetoclax	BCL2-inhibitor	Haem.Malignancy	Responsive
+TP53	olaparib	PARP inhibitor	OC	Responsive
+TP53	lapatinib	TK inhibitor	OC	Resistant
+TP53	doxorubicin	Chemotherapy	BC	Resistant
+TP53	doxorubicin	Chemotherapy	BC	Sensitive
+TP53	Fluorouracil and mitomycin C	Chemotherapy	BC	Resistant
+PIK3CA	alpelisib	PI3K inhibitor	BC	Responsive
+PIK3CA	capivasertib	AKT inhibitor	BC	Responsive
+PIK3CA	alpelisib	PI3K inhibitor	BC	Responsive
+PIK3CA	capivasertib	AKT inhibitor	BC	Responsive
+PIK3CA	alpelisib	PI3K inhibitor	BC	Responsive
+PIK3CA	trastuzumab	Monoclonal antibody	BC	Resistant
+PIK3CA	pertuzumab	Monoclonal antibody	BC	Resistant
+PIK3CA	lapatinib	TK inhibitor	BC	Resistant
+PIK3CA	fulvestrant	Endocrine therapy	BC	Resistant
+PIK3CA	epirubicin	Chemotherapy	BC	Resistant
+PIK3CA	panitumumab	Monoclonal antibody	mCRC	Resistant
+PIK3CA	cetuximab	Monoclonal antibody	mCRC	Resistant
+PTEN	capivasertib	AKT inhibitor	BC	Responsive
+PTEN	capivasertib	AKT inhibitor	BC	Responsive
