@@ -37,7 +37,7 @@
 </details>
 
 <details>  
-  <summary><b>Step 3: Create the environment/b></summary>
+  <summary><b>Step 3: Create the environment</b></summary>
 
 1) **Create the environment/ OPTIMA Platform**: Once your terminal is open run the following commands individually to create the environment based on the `BCI_demo.yaml` file and add the kernel to your Jupyter notebook:
 
