@@ -5,7 +5,7 @@ Source codes and documentation for November 2024 OPTIMA workshop:
 ### Environment Creation
 **Download the `BCI_demo.yaml` file**: Ensure this file is in your working directory. It should contain the specifications for your environment, including the required packages.
 
-  1) **Open the terminal**: Click on the blue New Launcer button seen in the top left of the notebook. (see below)
+  1) **Open the terminal**: Click on the blue New Launcher button seen in the top left of the notebook. (see below)
     
   ![image](https://github.com/user-attachments/assets/9515c8da-5459-42f4-82d8-1216432c8109)
 
