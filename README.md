@@ -1,3 +1,19 @@
+# Introduction
+This repository contains the code developed for the November 2024 Optima Workshop, aimed at exploring the heterogeneity of breast cancer through the integration of clinical, genomic, and transcriptomic data. 
+
+### The notebook includes the following key sections:
+
+* <b>Clinical Summary</span></b>
+  * Overview of the clinical characteristics of the cohort.
+* <b>Genomic</span></b>
+  * Mutational landscape
+  * Stratification of patients based on mutational status
+  * Identify windows of therapeutic opportunity 
+* <b>Transcriptomic</span></b>
+  * Molecular classification of breast cancer
+  * Immunophenotyping of data using deconvolution methods
+* <b>Whole slide imaging</span></b>
+  * Overlay our findings with whole slide image analysis to show how a multi-modal approach can enhance our understanding of breast cancer heterogeneity for patient benefit.
 
 ## Instructions to create enviroment for 'Omics' demo 
 
